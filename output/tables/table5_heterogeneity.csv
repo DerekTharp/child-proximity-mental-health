@@ -1,0 +1,5 @@
+moderator,interaction_coef,interaction_se,p_value,N,notes
+Female,.00754152,.02123081,.72243029,209658,time-invariant; absorbed by FE
+Married,.00512136,.02202073,.81609697,209658,time-varying
+Good health,.05199312,.02151384,.01566643,209658,poor health simple effect=-.03928389 SE=.0209479; good health simple effect=.01270922 SE=.01092695
+Many children,.02565628,.02111964,.22444928,209658,

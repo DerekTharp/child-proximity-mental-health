@@ -1,0 +1,8 @@
+restriction,n_pw,n_persons
+0. All person-wave observations,723744,45234
+1. Age >= 50 at interview,285895,44320
+2. Has living children (ever),266423,40376
+3. Non-missing proximity (any wave),260762,38180
+4a. CES-D FE sample (2+ waves),248441,31896
+4b. SWLS FE sample (2+ waves),153013,14829
+4c. Retiree person-waves,109249,24271

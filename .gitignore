@@ -1,0 +1,14 @@
+# HRS data files (must be downloaded by replicator from https://hrs.isr.umich.edu/)
+data/raw/*.dta
+data/analysis/*.dta
+HRS/
+
+# Stata batch logs (generated at runtime)
+*.log
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
